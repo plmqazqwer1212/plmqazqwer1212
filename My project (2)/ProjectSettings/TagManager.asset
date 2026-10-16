@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
+  - g
+  - goal
+  - Goal
+  - Trap
   layers:
   - Default
   - TransparentFX
